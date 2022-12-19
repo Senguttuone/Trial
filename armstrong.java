@@ -25,6 +25,7 @@ public class armstrong {
 		else
 		{
 			System.out.println("the given number is ng 0");
+			System.out.println("mm");
 		}
 	}
 
