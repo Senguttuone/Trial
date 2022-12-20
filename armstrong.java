@@ -28,7 +28,7 @@ public class armstrong {
 			System.out.println("tng 0");
 
 			System.out.println("the given number is ng 0");
-			System.out.println("make visible time");
+			System.out.println("make visible timee");
 
 		}
 	}
